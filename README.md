@@ -15,8 +15,8 @@ React + TypeScript + Tailwind CSS implementation of a mobile-only transaction tr
 
 ### Transactions Screen
 
-![Transactions Screen](public\results\transactions-screen.png)
+![Transactions Screen](./public/results/transactions-screen.png)
 
 ### Transaction Detail Screen
 
-![Transaction Detail Screen](public\results\transaction-detail-screen.png)
+![Transaction Detail Screen](./public/results/transaction-detail-screen.png)
