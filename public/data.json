@@ -1,0 +1,96 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "type": "Credit",
+      "amount": 15.99,
+      "name": "IKEA",
+      "description": "Home decor",
+      "date": "2026-03-31T10:00:00Z",
+      "isPending": true,
+      "authorizedUser": "James"
+    },
+    {
+      "id": "2",
+      "type": "Payment",
+      "amount": 120.4,
+      "name": "Salary Payout",
+      "description": "Monthly paycheck",
+      "date": "2026-03-30T09:15:00Z",
+      "isPending": false
+    },
+    {
+      "id": "3",
+      "type": "Debit",
+      "amount": 42.5,
+      "name": "City Grocery",
+      "description": "Weekly groceries",
+      "date": "2026-03-29T12:45:00Z",
+      "isPending": false
+    },
+    {
+      "id": "4",
+      "type": "Debit",
+      "amount": 9.75,
+      "name": "Morning Coffee",
+      "description": "Latte and snack",
+      "date": "2026-03-27T07:20:00Z",
+      "isPending": true
+    },
+    {
+      "id": "5",
+      "type": "Debit",
+      "amount": 87.2,
+      "name": "Electricity Utility",
+      "description": "Monthly power bill",
+      "date": "2026-03-26T17:32:00Z",
+      "isPending": false
+    },
+    {
+      "id": "6",
+      "type": "Payment",
+      "amount": 300,
+      "name": "Wallet Transfer",
+      "description": "Transfer from savings",
+      "date": "2026-03-24T18:10:00Z",
+      "isPending": false,
+      "authorizedUser": "Ava"
+    },
+    {
+      "id": "7",
+      "type": "Debit",
+      "amount": 55,
+      "name": "Restaurant 16",
+      "description": "Dinner",
+      "date": "2026-03-22T20:00:00Z",
+      "isPending": false
+    },
+    {
+      "id": "8",
+      "type": "Debit",
+      "amount": 22.49,
+      "name": "Online Shopping",
+      "description": "Phone case and cable",
+      "date": "2026-03-18T13:55:00Z",
+      "isPending": false
+    },
+    {
+      "id": "9",
+      "type": "Credit",
+      "amount": 18,
+      "name": "Travel Cashback",
+      "description": "Transit refund",
+      "date": "2026-03-12T08:25:00Z",
+      "isPending": false
+    },
+    {
+      "id": "10",
+      "type": "Debit",
+      "amount": 140.1,
+      "name": "Apartment Rent",
+      "description": "Partial rent payment",
+      "date": "2026-03-05T06:30:00Z",
+      "isPending": false
+    }
+  ]
+}
